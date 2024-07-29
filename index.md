@@ -1,9 +1,7 @@
 ---
 ---
 
-# AmbitionCXDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
+# 复旦大学金融科技与数据智能实验室
 
 {% include section.html %}
 
