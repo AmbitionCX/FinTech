@@ -5,6 +5,6 @@
 
   # AmbitionCX's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[chenxuan.space/Fintech-new](http://chenxuan.space/Fintech-new)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
